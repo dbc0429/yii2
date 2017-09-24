@@ -36,7 +36,10 @@ return [
         'errorHandler' => [
             'errorAction' => 'site/error',
         ],
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2ba83f45c49718cbee352d2f326018a383e9fc8f
         'urlManager' => [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
@@ -44,6 +47,7 @@ return [
                 '<alias:\w+>' => 'site/<alias>',
             ],
         ],
+<<<<<<< HEAD
 
         // 'assetManager' => [
         //     'bundles' => [
@@ -58,6 +62,8 @@ return [
         //     ],
         //     ],
         // ],
+=======
+>>>>>>> 2ba83f45c49718cbee352d2f326018a383e9fc8f
     ],
     'params' => $params,
 ];

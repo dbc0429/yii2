@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 bower_components/
 build/
 node_modules/
 
+=======
+#TEMPORARILY IGNORE BOWER COMPONENTS
+bower_components/
+>>>>>>> 2ba83f45c49718cbee352d2f326018a383e9fc8f
 
 # yii console commands
 /yii
