@@ -5,7 +5,7 @@ namespace common\models;
 use Yii;
 
 /**
- * This is the model class for table "team".
+ * This is the model class for table "team" "team".
  *
  * @property string $id
  * @property string $team
